@@ -13,4 +13,9 @@ Go
   Select * from client C Where C.Pays = 'Canada';
 Go
 
- //added comment
+ //Completed feature 
+ 
+ Select * from client
+ //Bug fixed
+ 
+ 
