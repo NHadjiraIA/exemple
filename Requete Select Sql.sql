@@ -13,4 +13,4 @@ Go
   Select * from client C Where C.Pays = 'Canada';
 Go
 
-   
+ //added comment
